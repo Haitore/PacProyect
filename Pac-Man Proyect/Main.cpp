@@ -1,11 +1,6 @@
 #include <stdio.h>
 #include <graphics.h>
 
-#define ARRIBA 72
-#define IZQUIERDA 75
-#define DERECHA 77
-#define ABAJO 80
-#define ESC 27
 
 void opcion1_menu();
 void opcion2_menu();
